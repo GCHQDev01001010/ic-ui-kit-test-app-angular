@@ -4,11 +4,12 @@ import {Component} from '@angular/core';
     template: `
         <ic-card-vertical>
             <ic-typography>
-                < slot="heading">Test Card</h3>
+                <h3 slot="heading">Test Card</h3>
                 <p slot="message">Page B content</p>
             </ic-typography>
         </ic-card-vertical>
-    `
+    `,
+    standalone: false
 })
 export class PageB {
     

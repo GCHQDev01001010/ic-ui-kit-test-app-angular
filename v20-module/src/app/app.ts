@@ -7,6 +7,6 @@ import { Component, signal } from '@angular/core';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly testType = 'Ng v21 - Module-based'
-  protected readonly version = '3.15.0'
+  protected readonly testType = 'Ng v20 - Module-based'
+  protected readonly version = '3.16.0'
 }

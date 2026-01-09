@@ -28,8 +28,8 @@
     "@angular/forms": "^20.3.0",
     "@angular/platform-browser": "^20.3.0",
     "@angular/router": "^20.3.0",
-    "@ukic/angular": "../ukic-angular-3.16.0.tgz",
-    "@ukic/web-components": "../ukic-web-components-3.16.0.tgz",
+    "@ukic/angular": "^3.16.0",
+    "@ukic/web-components": "^3.16.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.0"

@@ -3,7 +3,6 @@ import {Component} from '@angular/core';
 import { IcCardVertical, IcTypography } from '@ukic/angular/standalone';
 
 @Component({
-    standalone: true,
     imports: [IcCardVertical, IcTypography],
     template: `
         <ic-card-vertical>

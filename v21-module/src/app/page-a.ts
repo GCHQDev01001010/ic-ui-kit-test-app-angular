@@ -5,7 +5,8 @@ import {Component} from '@angular/core';
         <ic-section-container>
             <ic-typography>Page A content</ic-typography>
         </ic-section-container>
-    `
+    `,
+    standalone: false
 })
 export class PageA {
     

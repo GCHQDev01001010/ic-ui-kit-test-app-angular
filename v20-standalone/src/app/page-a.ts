@@ -2,7 +2,6 @@ import {Component} from '@angular/core';
 import { IcSectionContainer, IcTypography } from '@ukic/angular/standalone';
 
 @Component({
-    standalone: true,
     imports: [IcSectionContainer, IcTypography],
     template: `
         <ic-section-container>
