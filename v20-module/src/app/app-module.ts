@@ -1,6 +1,6 @@
 import { NgModule, provideBrowserGlobalErrorListeners } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { ICDSModule } from '@ukic/angular';
+import { ICDSModule } from '@ukic/angular-community-supported';
 
 import { AppRoutingModule } from './app-routing-module';
 import { App } from './app';

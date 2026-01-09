@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { IcSideNavigation, IcNavigationItem } from '@ukic/angular/standalone';
+import { IcSideNavigation, IcNavigationItem } from '@ukic/angular-community-supported/standalone';
 
 
 @Component({
@@ -11,5 +11,5 @@ import { IcSideNavigation, IcNavigationItem } from '@ukic/angular/standalone';
 })
 export class App {
   protected readonly status = 'Ng v20 - Standalone'
-  protected readonly version = '3.16.0'
+  protected readonly version = '3.17.0'
 }

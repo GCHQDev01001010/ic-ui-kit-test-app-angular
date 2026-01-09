@@ -1,6 +1,6 @@
 import {Component} from '@angular/core';
 
-import { IcCardVertical, IcTypography } from '@ukic/angular/standalone';
+import { IcCardVertical, IcTypography } from '@ukic/angular-community-supported/standalone';
 
 @Component({
     imports: [IcCardVertical, IcTypography],

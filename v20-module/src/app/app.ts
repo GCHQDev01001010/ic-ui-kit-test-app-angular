@@ -8,5 +8,5 @@ import { Component, signal } from '@angular/core';
 })
 export class App {
   protected readonly testType = 'Ng v20 - Module-based'
-  protected readonly version = '3.16.0'
+  protected readonly version = '3.17.0'
 }

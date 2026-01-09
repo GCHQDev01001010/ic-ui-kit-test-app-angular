@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import { IcSectionContainer, IcTypography } from '@ukic/angular/standalone';
+import { IcSectionContainer, IcTypography } from '@ukic/angular-community-supported/standalone';
 
 @Component({
     imports: [IcSectionContainer, IcTypography],

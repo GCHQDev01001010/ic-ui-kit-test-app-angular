@@ -1,6 +1,6 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { IcNavigationItem, IcSearchBar, IcTopNavigation } from '@ukic/angular/standalone';
+import { IcNavigationItem, IcSearchBar, IcTopNavigation } from '@ukic/angular-community-supported/standalone';
 
 @Component({
   selector: 'app-root',
@@ -10,5 +10,5 @@ import { IcNavigationItem, IcSearchBar, IcTopNavigation } from '@ukic/angular/st
 })
 export class App {
   protected readonly title = signal('Standalone - Ng v21');
-  protected readonly version = signal('v13.16.0');
+  protected readonly version = signal('v13.17.0');
 }
